@@ -11,7 +11,7 @@ export const mockData = {
           "name": "Youtube",
           "url": "https://youtube.com",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/youtube.com"
+          "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
           "id": "site-1776156694126",
