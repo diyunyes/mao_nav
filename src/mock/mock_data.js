@@ -52,6 +52,49 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
+      "name": "电视网站",
+      "icon": "🤖",
+      "order": 1,
+      "sites": [
+        {
+          "id": "Telegram",
+          "name": "Telegram",
+          "url": "tg://",
+          "description": "OpenAI对话AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "claude",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic AI助手",
+          "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "copilot",
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI代码助手",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "P站",
+          "name": "P站",
+          "url": "https://www.pornhub.com/",
+          "description": "P站",
+          "icon": "/sitelogo/cursor.sh.ico"
+        }
+      ]
+    },
+    {
+      "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
       "order": 1,
