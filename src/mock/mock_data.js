@@ -52,7 +52,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "电视网站",
+      "name": "电脑软件",
       "icon": "💻",
       "order": 1,
       "sites": [
@@ -76,6 +76,20 @@ export const mockData = {
           "url": "https://i.mi.com/drive/h5#/all",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/i.mi.com"
+        },
+        {
+          "id": "site-1776159244342",
+          "name": "OK",
+          "url": "https://ok.ru/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ok.ru"
+        },
+        {
+          "id": "site-1776159314958",
+          "name": "VK",
+          "url": "htps://vk.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vk.com"
         }
       ]
     },
