@@ -265,10 +265,10 @@ export const mockData = {
         },
         {
           "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
+          "name": "Google",
+          "url": "https://google.com",
+          "description": "谷歌",
+          "icon": "https://www.faviconextractor.com/favicon/google.com"
         },
         {
           "id": "aliyun",
