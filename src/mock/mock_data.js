@@ -7,10 +7,10 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1776156647510",
-          "name": "Youtube",
-          "url": "https://youtube.com",
-          "description": "",
+          "id": "youtube",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
@@ -26,13 +26,6 @@ export const mockData = {
           "url": "https://twitter.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/twitter.com"
-        },
-        {
-          "id": "site-1776153294761",
-          "name": "P站",
-          "url": "https://www.pornhub.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.pornhub.com"
         },
         {
           "id": "site-1776156737530",
@@ -90,6 +83,13 @@ export const mockData = {
           "url": "htps://vk.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/vk.com"
+        },
+        {
+          "id": "aws",
+          "name": "Google",
+          "url": "https://google.com",
+          "description": "谷歌",
+          "icon": "https://www.faviconextractor.com/favicon/google.com"
         }
       ]
     },
@@ -105,13 +105,6 @@ export const mockData = {
           "url": "https://www.bilibili.com",
           "description": "弹幕视频网站",
           "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
           "id": "site-1776157172434",
@@ -139,7 +132,14 @@ export const mockData = {
           "name": "知乎",
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
-          "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+          "icon": "/sitelogo/www.zhihu.com.ico"
+        },
+        {
+          "id": "site-1776153294761",
+          "name": "Adobe",
+          "url": "https://www.pornhub.com/",
+          "description": "",
+          "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
     },
@@ -183,13 +183,6 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
         }
       ]
     },
@@ -264,13 +257,6 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "Google",
-          "url": "https://google.com",
-          "description": "谷歌",
-          "icon": "https://www.faviconextractor.com/favicon/google.com"
-        },
-        {
           "id": "aliyun",
           "name": "阿里云",
           "url": "https://www.aliyun.com",
@@ -283,13 +269,6 @@ export const mockData = {
           "url": "https://cloud.tencent.com",
           "description": "腾讯云计算服务",
           "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
         {
           "id": "site-1752644060499",
@@ -328,13 +307,6 @@ export const mockData = {
           "icon": "/sitelogo/www.jetbrains.com.ico"
         },
         {
-          "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "/sitelogo/www.postman.com.ico"
-        },
-        {
           "id": "android-studio",
           "name": "Android Studio",
           "url": "https://developer.android.com/studio",
@@ -354,28 +326,6 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
-        }
-      ]
-    },
-    {
-      "id": "category-1774510899116",
-      "icon": "☠️",
-      "name": "DDDD",
-      "order": 7,
-      "sites": [
-        {
-          "id": "site-1774510993770",
-          "name": "RiskTest",
-          "url": "https://risk.copolits.com/",
-          "description": "检测风控",
-          "icon": "https://www.faviconextractor.com/favicon/risk.copolits.com"
-        },
-        {
-          "id": "site-1774511036557",
-          "name": "虚拟地址",
-          "url": "https://ip-geoaddress-generator.pages.dev/",
-          "description": "获取当前ip地址",
-          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
         }
       ]
     },
@@ -591,21 +541,6 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1776214935988",
-      "icon": "🎨",
-      "name": "汽车",
-      "order": 13,
-      "sites": [
-        {
-          "id": "site-1776214967145",
-          "name": "懂车帝",
-          "url": "https://www.dongchedi.com/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
