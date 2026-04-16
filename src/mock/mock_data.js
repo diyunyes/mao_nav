@@ -647,6 +647,5 @@ export const mockData = {
     }
   ],
   "title": "知乎",
-  "search": "google",
-  "_fileSha": "653b5be58c1a4e75abaf137443166521f0dc6518"
+  "search": "google"
 }
