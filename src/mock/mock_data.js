@@ -17,28 +17,28 @@ export const mockData = {
           "id": "site-1776156694126",
           "name": "Rutube",
           "url": "https://rutube.ru/",
-          "description": "",
+          "description": "俄罗斯视频站",
           "icon": "https://www.faviconextractor.com/favicon/rutube.ru"
         },
         {
           "id": "site-1776156712826",
           "name": "Twitter",
           "url": "https://twitter.com/",
-          "description": "",
+          "description": "欧美主流社交",
           "icon": "https://www.faviconextractor.com/favicon/twitter.com"
         },
         {
           "id": "site-1776156737530",
           "name": "INS",
           "url": "https://www.instagram.com/",
-          "description": "",
+          "description": "欧美美妆社交",
           "icon": "https://www.faviconextractor.com/favicon/www.instagram.com"
         },
         {
           "id": "site-1776156771741",
           "name": "Yandex",
           "url": "https://dzen.ru/",
-          "description": "",
+          "description": "俄罗斯搜索站",
           "icon": "https://www.faviconextractor.com/favicon/dzen.ru"
         }
       ]
@@ -53,42 +53,42 @@ export const mockData = {
           "id": "Telegram",
           "name": "Telegram",
           "url": "tg://",
-          "description": "OpenAI对话AI助手",
+          "description": "著名通讯软件",
           "icon": "https://telegram.org/img/favicon-32x32.png"
         },
         {
           "id": "site-1776153333720",
           "name": "V2Ray",
           "url": "v2ray://",
-          "description": "",
+          "description": "安全上网软件",
           "icon": "https://v2rayng.org/wp-content/uploads/2022/06/cropped-1656359416-favicon-150x150.png"
         },
         {
           "id": "site-1776153354011",
           "name": "小米云盘",
           "url": "https://i.mi.com/drive/h5#/all",
-          "description": "",
+          "description": "小米云服务平台",
           "icon": "https://www.faviconextractor.com/favicon/i.mi.com"
         },
         {
           "id": "site-1776159244342",
           "name": "OK",
           "url": "https://ok.ru/",
-          "description": "",
+          "description": "俄罗斯社交媒体",
           "icon": "https://www.faviconextractor.com/favicon/ok.ru"
         },
         {
           "id": "site-1776159314958",
           "name": "VK",
           "url": "htps://vk.com/",
-          "description": "",
+          "description": "俄罗斯社交媒体",
           "icon": "https://www.faviconextractor.com/favicon/vk.com"
         },
         {
           "id": "aws",
           "name": "Google",
           "url": "https://google.com",
-          "description": "谷歌",
+          "description": "著名搜索引擎",
           "icon": "https://www.faviconextractor.com/favicon/google.com"
         }
       ]
@@ -110,14 +110,14 @@ export const mockData = {
           "id": "site-1776157172434",
           "name": "4K",
           "url": "https://www.4kvm.net/",
-          "description": "",
+          "description": "海外4K美剧网站",
           "icon": "https://www.faviconextractor.com/favicon/www.4kvm.net"
         },
         {
           "id": "site-1776157189121",
           "name": "美剧",
           "url": "https://www.meijutt.org/",
-          "description": "",
+          "description": "海外4K美剧网站",
           "icon": "https://www.faviconextractor.com/favicon/www.meijutt.org"
         },
         {
@@ -138,7 +138,7 @@ export const mockData = {
           "id": "site-1776153294761",
           "name": "Adobe",
           "url": "https://www.pornhub.com/",
-          "description": "",
+          "description": "软件服务商",
           "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
@@ -153,7 +153,7 @@ export const mockData = {
           "id": "site-1776158169483",
           "name": "图标网",
           "url": "https://www.faviconextractor.com/",
-          "description": "",
+          "description": "网站图标搜索",
           "icon": "https://www.faviconextractor.com/favicon/www.flaticon.com"
         },
         {
