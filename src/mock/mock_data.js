@@ -44,7 +44,7 @@ export const mockData = {
       ]
     },
     {
-      "id": "ai-tools",
+      "id": "computer-software",
       "name": "电脑软件",
       "icon": "💻",
       "order": 1,
