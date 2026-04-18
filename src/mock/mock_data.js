@@ -18,7 +18,7 @@ export const mockData = {
           "name": "Rutube",
           "url": "https://rutube.ru/",
           "description": "俄罗斯视频站",
-          "icon": "https://www.faviconextractor.com/favicon/rutube.ru"
+          "icon": "https://static.rtbcdn.ru/static/img/favicon-icons/v3/icon_180x180.png"
         },
         {
           "id": "site-1776156712826",
@@ -32,7 +32,7 @@ export const mockData = {
           "name": "INS",
           "url": "https://www.instagram.com/",
           "description": "欧美美妆社交",
-          "icon": "https://www.faviconextractor.com/favicon/www.instagram.com"
+          "icon": "https://static.cdninstagram.com/rsrc.php/yj/r/f01UdNyJjJj.webp"
         },
         {
           "id": "site-1776156771741",
@@ -75,14 +75,14 @@ export const mockData = {
           "name": "小米云盘",
           "url": "https://i.mi.com/drive/h5#/all",
           "description": "小米云服务平台",
-          "icon": "https://www.faviconextractor.com/favicon/i.mi.com"
+          "icon": "https://icons.duckduckgo.com/ip3/i.mi.com.ico"
         },
         {
           "id": "site-1776159244342",
           "name": "OK",
           "url": "https://ok.ru/",
           "description": "俄罗斯社交媒体",
-          "icon": "https://www.faviconextractor.com/favicon/ok.ru"
+          "icon": "https://ok.ru/favicon.svg"
         },
         {
           "id": "site-1776159314958",
@@ -92,11 +92,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/vk.com"
         },
         {
-          "id": "aws",
-          "name": "Google",
-          "url": "https://google.com",
-          "description": "著名搜索引擎",
-          "icon": "https://www.faviconextractor.com/favicon/google.com"
+          "id": "site-1776498266645",
+          "name": "Clash",
+          "url": "clash://",
+          "description": "安全上网软件",
+          "icon": "https://clashverge.net/wp-content/uploads/2025/05/logo-150x150.webp"
         }
       ]
     },
@@ -190,6 +190,13 @@ export const mockData = {
           "url": "https://www.kuaishou.com/new-reco",
           "description": "快手视频平台",
           "icon": "https://www.faviconextractor.com/favicon/www.kuaishou.com"
+        },
+        {
+          "id": "aws",
+          "name": "Google",
+          "url": "https://google.com",
+          "description": "著名搜索引擎",
+          "icon": "https://icons.duckduckgo.com/ip3/google.com.ico"
         }
       ]
     },
