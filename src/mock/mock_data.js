@@ -71,6 +71,13 @@ export const mockData = {
           "icon": "https://v2rayng.org/wp-content/uploads/2022/06/cropped-1656359416-favicon-150x150.png"
         },
         {
+          "id": "site-1776498266645",
+          "name": "Clash",
+          "url": "clash://",
+          "description": "安全上网软件",
+          "icon": "https://clashverge.net/wp-content/uploads/2025/05/logo-150x150.webp"
+        },
+        {
           "id": "site-1776153354011",
           "name": "小米云盘",
           "url": "https://i.mi.com/drive/h5#/all",
@@ -90,13 +97,6 @@ export const mockData = {
           "url": "htps://vk.com/",
           "description": "俄罗斯社交媒体",
           "icon": "https://www.faviconextractor.com/favicon/vk.com"
-        },
-        {
-          "id": "site-1776498266645",
-          "name": "Clash",
-          "url": "clash://",
-          "description": "安全上网软件",
-          "icon": "https://clashverge.net/wp-content/uploads/2025/05/logo-150x150.webp"
         }
       ]
     },
