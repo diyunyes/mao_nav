@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://dzen.ru/",
           "description": "俄罗斯搜索站",
           "icon": "https://www.faviconextractor.com/favicon/dzen.ru"
+        },
+        {
+          "id": "site-1776497702140",
+          "name": "抖音",
+          "url": "https://www.douyin.com/",
+          "description": "中国主流视频站",
+          "icon": "https://www.faviconextractor.com/favicon/www.douyin.com"
         }
       ]
     },
@@ -172,17 +179,17 @@ export const mockData = {
         },
         {
           "id": "site-1774601326477",
-          "name": "猫猫绘图",
-          "url": "https://fast.catsapi.com",
-          "description": "文生图，图生图，文生视频站点",
-          "icon": "https://www.faviconextractor.com/favicon/fast.catsapi.com"
+          "name": "斗鱼",
+          "url": "https://douyu.com",
+          "description": "斗鱼游戏平台",
+          "icon": "https://www.faviconextractor.com/favicon/douyu.com"
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "快手",
+          "url": "https://www.kuaishou.com/new-reco",
+          "description": "快手视频平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.kuaishou.com"
         }
       ]
     },
