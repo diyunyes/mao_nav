@@ -64,18 +64,18 @@ export const mockData = {
           "icon": "https://telegram.org/img/favicon-32x32.png"
         },
         {
-          "id": "site-1776153333720",
-          "name": "V2Ray",
-          "url": "v2ray://",
-          "description": "安全上网软件",
-          "icon": "https://v2rayng.org/wp-content/uploads/2022/06/cropped-1656359416-favicon-150x150.png"
-        },
-        {
           "id": "site-1776498266645",
           "name": "Clash",
           "url": "clash://",
           "description": "安全上网软件",
           "icon": "https://clashverge.net/wp-content/uploads/2025/05/logo-150x150.webp"
+        },
+        {
+          "id": "site-1776153333720",
+          "name": "V2Ray",
+          "url": "v2ray://",
+          "description": "安全上网软件",
+          "icon": "https://v2rayng.org/wp-content/uploads/2022/06/cropped-1656359416-favicon-150x150.png"
         },
         {
           "id": "site-1776153354011",
@@ -93,10 +93,10 @@ export const mockData = {
         },
         {
           "id": "site-1776159314958",
-          "name": "VK",
-          "url": "htps://vk.com/",
-          "description": "俄罗斯社交媒体",
-          "icon": "https://www.faviconextractor.com/favicon/vk.com"
+          "name": "FMHY",
+          "url": "https://fmhy.net/",
+          "description": "免费资源站",
+          "icon": "https://www.faviconextractor.com/favicon/fmhy.net"
         }
       ]
     },
